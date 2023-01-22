@@ -15,4 +15,6 @@
         * Product, user & category Management on Admin side.
 
         * Actual actions such as registering, login and logout are included.
-          Also contains a paginator, category option and search functionally.
+        
+        
+        * Also contains a paginator, category option and search functionally.
