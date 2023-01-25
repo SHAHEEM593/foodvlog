@@ -1,20 +1,11 @@
 # E-COM PROJECT
-
-## OUTPUT
-
-
-![Screenshot (22)](https://user-images.githubusercontent.com/122553651/213870330-3a064946-1c14-4e65-963e-51ff1f26e260.png)
-
-<br>
+It provides the list of food items that is available for purchase in the store.
 
 
-![Screenshot (23)](https://user-images.githubusercontent.com/122553651/213870351-d11f4475-6a45-4daf-9cb8-e3d24cbb9f08.png)
-  ### FEATURES INCLUDE:
-        * User login and logout.
 
-        * Product, user & category Management on Admin side.
+![Screenshot (22)](https://user-images.githubusercontent.com/122553651/214502782-f4d64d4a-774a-460e-a47e-21a5028223e4.png)
 
-        * Actual actions such as registering, login and logout are included.
-        
-        
-        * Also contains a paginator, category option and search functionally.
+
+
+
+![Screenshot (23)](https://user-images.githubusercontent.com/122553651/214502885-bf0a7c24-795c-402a-a0eb-076abb2b3b54.png)
